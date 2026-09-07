@@ -6,7 +6,7 @@ Summary:        OpenAI_s response format for its open-weight model series gpt-os
 
 # No license information obtained, it's up to the packager to fill it in
 License:        ...
-URL:            ...
+URL:            https://github.com/openai/harmony
 Source:         %{pypi_source openai_harmony}
 
 BuildRequires:  python3-devel
